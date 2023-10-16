@@ -8,7 +8,8 @@ Flutter project created during Make-A-Thon, a 6 hour hackathon conducted by Tink
 - Welcome message and an app logo.
 - An arrow button to navigate to the second page.
 
-![Alternate Text](https://github.com/sivani-l-r/IConnect/blob/main/1.png)
+<img src="https://github.com/sivani-l-r/IConnect/blob/main/1.png" width="200" height="200">
+
 ## Second Page:
 
 - The second screen with a bottom navigation bar.
