@@ -7,6 +7,9 @@ Flutter project created during Make-A-Thon, a 6 hour hackathon conducted by Tink
 - Initial screen with the app title "IConnect."
 - Welcome message and an app logo.
 - An arrow button to navigate to the second page.
+
+- ![Alternate Text](https://github.com/your-username/your-repository/blob/main/path-to-your-image/image.png)
+
 - 
 ## Second Page:
 
